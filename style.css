@@ -1,5 +1,5 @@
 .form-container{
-max-width:600px;
+max-width: 80%;
 padding: 40px 20px;
 margin: 0 auto;
 background: #fff;
@@ -44,6 +44,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 }
+
 @media only screen and (max-width: 600px){
 .form-container{
 width: 90%;
